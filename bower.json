@@ -1,13 +1,17 @@
 {
-  "name": "ng-number-filter",
-  "description": "An Euro number filter to convert numbers into euro format
+  "name": "ng-euro-number-filter",
+  "description": "An Euro number filter to convert numbers into euro format",
   "main": "index.js",
-  "moduleType": [],
-  "private": true,
+  "authors": [
+    "Thoughtworks"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/TWChennai/ng-euro-number-filter",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
+    "test",
     "tests"
   ]
 }

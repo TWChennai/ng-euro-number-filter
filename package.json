@@ -1,0 +1,8 @@
+{
+  "name": "ng-euro-number-filter",
+  "version": "1.0.0",
+  "description": "An Euro number filter to convert numbers into euro format",
+  "main": "index.js",
+  "author": "Thoughtworks",
+  "license": "ISC"
+}

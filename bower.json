@@ -1,0 +1,13 @@
+{
+  "name": "ng-number-filter",
+  "description": "An Euro number filter to convert numbers into euro format
+  "main": "index.js",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}

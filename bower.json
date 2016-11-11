@@ -13,5 +13,10 @@
     "bower_components",
     "test",
     "tests"
+  ],
+  "keywords": [
+    "euro",
+    "number",
+    "filter"
   ]
 }
